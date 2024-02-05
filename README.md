@@ -1,2 +1,3 @@
-# tools-openssl
-A docker image to allow the use of open ssl
+# OpenSSL Docker Image
+
+A lightweight docker image to allow access to OpenSSL
